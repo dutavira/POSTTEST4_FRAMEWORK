@@ -25,7 +25,7 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <a class="navbar-brand fs-7 fw-bold">Kelola Admin</a>
-                <ul class="d-flex">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                     <li class="nav-item">
                         <a class="nav-link" href="/menu/create_mk">Tambah Makanan</a>
                         </li>
